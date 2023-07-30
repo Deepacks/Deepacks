@@ -1,3 +1,9 @@
+### Greetings 🤠!
+
+I'm Vladimir Cuneaz, born and currently living in Italy 🇮🇹.
+
+Racing and coding are my two great passions that drive me forward in both the physical and digital worlds.
+
 ![hacking joke gif](https://github.com/Deepacks/Deepacks/blob/main/Data/very-serious-hacking.gif)
 
 <!--
